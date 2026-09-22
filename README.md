@@ -14,6 +14,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y01o00o10&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01o00o10&layout=compact)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01o00o10&layout=compact)
