@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm 01o00o10 👋
 
-<!--
-**01o00o10/01o00o10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on AI, framework development, and reverse engineering in the fintech industry.
+- 🌱 I’m currently learning large language models, system design, and advanced reverse engineering.
+- 👯 I’m looking to collaborate on AI tools, developer frameworks, and fintech open-source projects.
+- 🤔 I’m looking for help with LLM deployment, framework architecture design, and reverse engineering challenges.
+- 💬 Ask me about fintech, AI, framework development, or reverse engineering.
+- 😄 Pronouns: he/him (remove if you don’t want to share)
+- ⚡ Fun fact: I write AI and frameworks in fintech and also do reverse engineering — you need to understand both finance and low-level systems.
+-  My Blog: https://www.cnblogs.com/01o00o10
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=01o00o10&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01o00o10&layout=compact)
