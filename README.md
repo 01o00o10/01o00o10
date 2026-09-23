@@ -9,8 +9,4 @@
 -  My Blog: https://www.cnblogs.com/01o00o10
 - ⚡ Fun fact: I build AI agents and low-level development frameworks at work, focus on JVM diagnostics and tuning, previously worked on observability, and do reverse engineering as a hobby — finance meets low-level curiosity.
 
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y01o00o10&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01o00o10&layout=compact)
